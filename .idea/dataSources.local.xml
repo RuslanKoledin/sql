@@ -46,11 +46,6 @@
         </introspection-scope>
       </schema-mapping>
     </data-source>
-    <data-source name="postgresdb@localhost" uuid="d78d35c9-a543-4f94-b1b4-0731485b9f6a">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
-      <secret-storage>master_key</secret-storage>
-      <schema-mapping />
-    </data-source>
     <data-source name="postgresdb@localhost [2]" uuid="ed429708-8bb5-46a6-9f58-17430df8bc63">
       <database-info product="PostgreSQL" version="15.1" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.5.0" dbms="POSTGRES" exact-version="15.1" exact-driver-version="42.5">
         <identifier-quote-string>&quot;</identifier-quote-string>
